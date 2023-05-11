@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @SanjayLegacy
+- 👋 Hi, I’m Sanjay
 - 👀 I’m interested in programming and integrating API Data with front-end applications.
 - 📫 How to reach me - sanjaysenthilkumar2499@gmail.com
 
